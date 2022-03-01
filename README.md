@@ -4,3 +4,7 @@ Embedded Intent Recognizer is a simple, small, case-insensitive intent recogniti
 ## Compilation
 ```bash
 $ mkdir build && cd build && cmake .. && make
+```bash
+$ cd src
+```bash
+$./EmbeddedIntentRecognizer 
